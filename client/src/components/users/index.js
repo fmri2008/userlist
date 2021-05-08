@@ -29,9 +29,9 @@ class Users extends Component {
     getUsers(searchTerm, sortField, sortDirection, perPage, currPage);
   }
 
-  // componentWillUnmount() {
-  //   this.props.deleteUsers();
-  // }
+  componentWillUnmount() {
+    // new
+  }
 
   onSort = (field) => {
     let direction = 1;

@@ -1,0 +1,45 @@
+.pagination-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.perpage {
+  display: flex;
+  flex-direction: row;
+}
+
+.pagination {
+  display: flex;
+  flex-direction: row;
+  list-style-type: none;
+  margin-left: 20px;
+}
+
+.page {
+  margin: 0 10px;
+}
+
+.currpage {
+  margin: 0 10px;
+  font-weight: bold;
+}
+
+.page:hover {
+  cursor: pointer;
+}
+
+.arrow {
+  color: #0099cc;
+  font-size: 1em;
+}
+
+.arrow:hover {
+  cursor: pointer;
+}
+
+.goto-page {
+  display: flex;
+  flex-direction: row;
+}

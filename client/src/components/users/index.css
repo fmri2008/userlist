@@ -1,0 +1,12 @@
+.sortcolumn {
+  color: #0099cc;
+}
+
+.sortcolumn:hover {
+  cursor: pointer;
+}
+
+td {
+  width: 100px;
+  overflow: hidden;
+}

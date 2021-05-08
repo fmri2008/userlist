@@ -1,0 +1,7 @@
+.alert {
+  border: 1px solid black;
+  padding: 5px 20px;
+  background: #00cca3;
+  color: white;
+  margin-top: 20px;
+}

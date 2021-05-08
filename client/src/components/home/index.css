@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.new-user-btn {
+  margin-top: 10px;
+  background-color: #00cca3;
+  color: white;
+  font-size: 12px;
+  font-weight: bold;
+  height: 30px;
+  width: 120px;
+}

@@ -30,7 +30,7 @@ class Users extends Component {
   }
 
   componentWillUnmount() {
-    // new
+    // new in main
   }
 
   onSort = (field) => {
